@@ -79,16 +79,16 @@ const ROLE = "moderator";
 
 // switch ... case ... default
 
-switch (ROLE) {
-  case "owner":
-    console.log("you have full access");
-    break;
-  case "moderator":
-    console.log("you have edit access");
-    break;
-  case "user":
-    console.log("you have view access");
-    break;
-  default:
-    console.log("you don't have access");
-}
+// switch (ROLE) {
+//   case "owner":
+//     console.log("you have full access");
+//     break;
+//   case "moderator":
+//     console.log("you have edit access");
+//     break;
+//   case "user":
+//     console.log("you have view access");
+//     break;
+//   default:
+//     console.log("you don't have access");
+// }
