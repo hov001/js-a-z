@@ -99,10 +99,10 @@
 
 // getBiggestItem(array);
 
-// const obj = {
-//   a() {
-//     return 6;
-//   },
-// };
+const obj = {
+  a() {
+    return 6;
+  },
+};
 
-// obj.a();
+obj.a();
