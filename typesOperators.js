@@ -92,3 +92,5 @@ const ROLE = "moderator";
 //   default:
 //     console.log("you don't have access");
 // }
+
+const a = 6;
